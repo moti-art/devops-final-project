@@ -6,8 +6,8 @@ The project is built using a microservices architecture and is deployed in two d
 ## ☁️ AWS Deployment Repositories
 * [Infrastructure (Terraform)](https://github.com/moti-art/weather-infra)
 * [GitOps & ArgoCD Configurations](https://github.com/moti-art/weather-gitops)
-* [Backend Service](https://github.com/moti-art/weather-backend)
-* [Frontend Service](https://github.com/moti-art/weather-frontend)
+* [Backend Service](https://github.com/moti-art/weather_backend)
+* [Frontend Service](https://github.com/moti-art/weather_frontend)
 * [Tracker Service](https://github.com/moti-art/weather-tracker)
 
 ## 🚂 Railway Deployment Repositories
